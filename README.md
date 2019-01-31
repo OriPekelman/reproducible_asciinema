@@ -11,5 +11,5 @@ pipenv install
 ## Run
 
 ```
-python typer.py
+pipenv run python typer.py examples/scenario.sh
 ```
